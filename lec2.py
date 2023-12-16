@@ -10,7 +10,7 @@ Spyder Editor
 
 This is a temporary script file.
 """
-
+### 1234
 import speech_recognition as sr
 r=sr.Recognizer()
 with sr.Microphone() as source:
