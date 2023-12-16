@@ -11,16 +11,7 @@ Spyder Editor
 This is a temporary script file.
 """
 ### 1234
-import speech_recognition as sr
-r=sr.Recognizer()
-with sr.Microphone() as source:
-    print("speack")
-    audio=r.listen(source)
-    try:
-        text=r.recognize_google(audio)
-        print("you said   : ".format(text))
-    except:
-        print("sorry")
+
         
 ---------------------------------------------------
 pip install pyqt5
