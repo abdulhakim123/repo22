@@ -18,7 +18,7 @@ pip install pyqt5
 
 pip install pyqt5-tools
 
-
+ 
 
 import PyQt5
 
@@ -105,7 +105,7 @@ if __name__ == '__main__':
      sys.exit(app.exec_())
 
 -------------------------------------------------------
-
+#mohammedalhazmi
 import PyQt5
 
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QMessageBox
@@ -147,7 +147,7 @@ if __name__ == '__main__':
 -------------------------------------------------------
 import PyQt5
 
-from PyQt5.QtWidgets import QMainWindow, QApplication, QWidget, QPushButton, QAction
+from PyQt5.QtWidgets import QMainWindow, QApplication, QWidget, QPushButton, QAction 
 
 from PyQt5.QtGui import QIcon
 from PyQt5.QtCore import pyqtSlot
